@@ -6,3 +6,11 @@ C:\Users\Zalman\Desktop\Код\C#\Dota\obj\Debug\Dota.csproj.ResolveComReference
 C:\Users\Zalman\Desktop\Код\C#\Dota\obj\Debug\Dota.csproj.CoreCompileInputs.cache
 C:\Users\Zalman\Desktop\Код\C#\Dota\obj\Debug\Dota.exe
 C:\Users\Zalman\Desktop\Код\C#\Dota\obj\Debug\Dota.pdb
+C:\Users\Zalman\Documents\Код\bin\Debug\Dota.exe.config
+C:\Users\Zalman\Documents\Код\bin\Debug\Dota.exe
+C:\Users\Zalman\Documents\Код\bin\Debug\Dota.pdb
+C:\Users\Zalman\Documents\Код\obj\Debug\Dota.csproj.AssemblyReference.cache
+C:\Users\Zalman\Documents\Код\obj\Debug\Dota.csproj.ResolveComReference.cache
+C:\Users\Zalman\Documents\Код\obj\Debug\Dota.csproj.CoreCompileInputs.cache
+C:\Users\Zalman\Documents\Код\obj\Debug\Dota.exe
+C:\Users\Zalman\Documents\Код\obj\Debug\Dota.pdb
