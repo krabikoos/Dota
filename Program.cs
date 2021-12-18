@@ -13,7 +13,7 @@ namespace Dota
         static void Main(string[] args)
         {
             //Создаёт файл Excel просто с названиями листов
-            if (!File.Exists("C:\\Users\\Zalman\\Desktop\\Код\\C#\\Dota\\Dota.xlsx"))
+            if (!File.Exists("C:\\Users\\Zalman\\Documents\\Код\\Dota.xlsx"))
             {
                 var Application = new Excel.Application();
                 Application.SheetsInNewWorkbook = 4;
@@ -30,8 +30,7 @@ namespace Dota
                 People.Name = "Список клиентов";
                 Items = (Excel.Worksheet)Application.Worksheets.Item[3];
                 Items.Name = "Список товаров";
-                BuyList = (Excel.Worksheet)Application.Worksheets.Item[4
-                    ];
+                BuyList = (Excel.Worksheet)Application.Worksheets.Item[4];
                 BuyList.Name = "Список Заказов";
                 WorkBook.SaveAs("C:\\Users\\Zalman\\Desktop\\Код\\C#\\Dota\\Dota.xlsx");
                 Application.Quit();
